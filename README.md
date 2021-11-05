@@ -1,7 +1,12 @@
 ### Hi there 👋
+
 [![emanuellopes's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuellopes&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+Top Lang projects, but this isn't reading my private repositories
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellopes&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+My Dev Status
+[![emanuellopes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emanuellopes)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
