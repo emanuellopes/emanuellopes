@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellopes&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![emanuellopes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emanuellopes)](https://github.com/anuraghazra/github-readme-stats)
+[![emanuellopes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emanuellopes&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
