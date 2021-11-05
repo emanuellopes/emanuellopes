@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![emanuellopes's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuellopes&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![emanuellopes's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuellopes&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
